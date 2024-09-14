@@ -3,10 +3,10 @@
 Dự án này tập trung vào việc phát triển và kiểm thử một ứng dụng với ba thành phần chính: ứng dụng Windows Forms để tính toán chỉ số BMI, kiểm thử tự động các chức năng của ứng dụng web bằng Selenium, và kiểm thử API bằng Postman.
 
 ## Mục Lục
-1. [Ứng Dụng Tính Toán BMI](#ứng-dụng-tính-toán-bmi)
-2. [Kiểm Thử Tự Động Ứng Dụng Web](#kiểm-thử-tự-động-ứng-dụng-web)
-3. [Kiểm Thử API với Postman](#kiểm-thử-api-với-postman)
-4. [Công Nghệ Sử Dụng](#công-nghệ-sử-dụng)
+1. [Ứng Dụng Tính Toán BMI](#1-ứng-dụng-tính-toán-bmi)
+2. [Kiểm Thử Tự Động Ứng Dụng Web](#2-kiểm-thử-tự-động-ứng-dụng-web)
+3. [Kiểm Thử API với Postman](#3-kiểm-thử-api-với-postman)
+4. [Công Nghệ Sử Dụng](#4-công-nghệ-sử-dụng)
 
 ---
 
