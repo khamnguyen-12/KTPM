@@ -1,5 +1,4 @@
 # KIỂM THỬ PHẦN MỀM TÍNH CHỈ SỐ BMI VÀ KIỂM THỬ TỰ ĐỘNG ỨNG DỤNG WEB
-#TỔNG QUAN DỰ ÁN
 
 Dự án này tập trung vào việc phát triển và kiểm thử một ứng dụng với ba thành phần chính: ứng dụng Windows Forms để tính toán chỉ số BMI, kiểm thử tự động các chức năng của ứng dụng web bằng Selenium, và kiểm thử API bằng Postman.
 
